@@ -1,0 +1,33 @@
+[submodule "JavaCalculator"]
+	path = JavaCalculator
+	url = git@github.com:jjthatch/JavaCalculator.git
+[submodule "CommandLine-Calculator"]
+	path = CommandLine-Calculator
+	url = git@github.com:jjthatch/CommandLine-Calculator.git
+[submodule "sweet_and_bitter_cv"]
+	path = sweet_and_bitter_cv
+	url = git@github.com:jjthatch/sweet_and_bitter_cv.git
+[submodule "corono-3dgame"]
+	path = corono-3dgame
+	url = git@github.com:jjthatch/corono-3dgame.git
+[submodule "lovethedark"]
+	path = lovethedark
+	url = git@github.com:jjthatch/lovethedark.git
+[submodule "webgame_adventure"]
+	path = webgame_adventure
+	url = git@github.com:jjthatch/webgame_adventure.git
+[submodule "coolwebgame"]
+	path = coolwebgame
+	url = git@github.com:jjthatch/coolwebgame.git
+[submodule "Hello-World"]
+	path = Hello-World
+	url = git@github.com:jjthatch/Hello-World.git
+[submodule "Recipe-Manager"]
+	path = Recipe-Manager
+	url = git@github.com:jjthatch/Recipe-Manager.git
+[submodule "Cardgame"]
+	path = Cardgame
+	url = git@github.com:jjthatch/Cardgame.git
+[submodule "FrisbeeGolf"]
+	path = FrisbeeGolf
+	url = git@github.com:jjthatch/FrisbeeGolf.git
